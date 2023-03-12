@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc5f7d395839ea1",
+        "id": "dbf2d5d49cd24bea",
         "type": "tabs",
+        "dimension": 40.87112171837709,
         "children": [
           {
-            "id": "a315fbefd855c4b3",
+            "id": "d08ac2a87768129f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 Essentials.md",
+                "file": "4.1 Inheritance and Interfaces.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "34c82a74fbd182fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82b23de6aa3fc1eb",
+            "id": "6aef443ba1508b6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +33,26 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "73b2d9da01d8bfb3",
+        "type": "tabs",
+        "dimension": 59.12887828162291,
+        "children": [
+          {
+            "id": "89d5d14a890d4de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.1 Inheritance and Interfaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,14 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82b23de6aa3fc1eb",
+  "active": "89d5d14a890d4de2",
   "lastOpenFiles": [
+    "4.1 Inheritance and Interfaces.md",
+    "1.1 Essentials.md",
     "1.2 Objects.md",
     "Pasted image 20230311230911.png",
     "Pasted image 20230311221053.png",
     "Pasted image 20230311220952.png",
-    "4.1 Inheritance and Interfaces.md",
-    "1.1 Essentials.md",
     "Untitled.canvas"
   ]
 }
