@@ -122,3 +122,55 @@ superclasses (or parent classes)
 each class can only extend one other class, but can be extended by many classes
 - this is different from interfaces, in which a class can implement many interfaces
 
+### interfaces
+- interfaces are implemented by classes
+	- they define a specific set of methods that the implementer **must** have
+- interfaces can also define default methods for the implementer
+- a class can implement multiple interfaces
+	- in this case, the cat class implements the nine lives and female interfaces
+	 ![[Pasted image 20230313184522.png]]
+
+### overloading vs. overriding
+- overloading is when two methods in the same class have the same name but different input parameters. this is decided at compile time
+- overriding is when a class and subclass share the same **exact** method signature
+	- we determine if we are going to use an overridden method via dynamic method selection
+	![[Pasted image 20230313185036.png]]
+	![[Pasted image 20230313185157.png]]
+
+do this exercise
+![[Pasted image 20230313185249.png]]
+
+`Jake.bark();`
+`Jake.eat();`
+`Jake.loudBark();`
+`Jake.angryBark();`
+`Milton.bark();`
+`Milton.loudBark();`
+
+## dynamic method selection
+### dynamic vs. static typing
+- static type is the variable type to the left of the variable name during declaration
+	- they are typically the variable java acknowledges during compilation
+- dynamic type is the variable type to the right of the variable name
+	- they are typically the variable that java acknowledges during compilation
+	- dynamic type can be a subclass of the static type but never the opposite
+	![[Pasted image 20230313190910.png]]
+
+do this exercise
+![[Pasted image 20230313191041.png]]
+
+### dynamic method selection procedure
+1. determine the static classes of the calling object and any parameters
+	1. if the static class or any class it extends does not have the method signature, we throw a compiler error
+2. we **lock onto** the method we choose
+3. in runtime, we look at the dynamic class of the calling object
+	1. if we see that the method we locked onto was overridden in the dynamic class, we lock into the overridden method
+4. run whatever we locked onto
+
+![[Pasted image 20230313192033.png]]
+
+![[Pasted image 20230313192417.png]]
+
+![[Pasted image 20230313193450.png]]
+
+![[Pasted image 20230313194519.png]]
