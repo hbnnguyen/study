@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Midterm 1 Review.md",
+                "file": "Midterm 1 Review 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc8f08b594420816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Midterm 1 Review 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm 1 Review.md",
+                "file": "Midterm 1 Review 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm 1 Review.md",
+                "file": "Midterm 1 Review 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Midterm 1 Review.md"
+                "file": "Midterm 1 Review 2.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db23d2daead1e47a",
+  "active": "cc8f08b594420816",
   "lastOpenFiles": [
+    "Pasted image 20230313223421.png",
+    "Midterm 1 Review 1.md",
+    "Midterm 1 Review 2.md",
+    "4.1 Inheritance and Interfaces.md",
     "Pasted image 20230313194519.png",
     "Pasted image 20230313193450.png",
     "Pasted image 20230313192417.png",
@@ -158,9 +175,6 @@
     "Pasted image 20230313185157.png",
     "Pasted image 20230313185036.png",
     "Pasted image 20230313184522.png",
-    "Pasted image 20230313175634.png",
-    "4.1 Inheritance and Interfaces.md",
-    "Midterm 1 Review.md",
     "1.1 Essentials.md",
     "1.2 Objects.md",
     "Untitled.canvas"
