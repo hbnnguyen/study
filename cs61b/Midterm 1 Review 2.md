@@ -9,3 +9,24 @@
 
 	![[Pasted image 20230313223421.png]]
 
+## lists
+### what is a list?
+```
+public interface List<T> {
+	void add(T item);
+	T get(int idx);
+	void remove(int idx);
+	boolean contains(Object o);
+	int size();
+}
+```
+- collection of items in an ordered manner
+- different implementations of lists have different pros and cons
+- unlike arrays, lists are true Objects, not primitive types
+- dynamic size
+- must be imported from `java.utils` or some other library
+- set of given methods that may be used to access and modify elements
+- implementation is much more complicated, but lots of useful functionality given to users
+
+### implementations of lists
+- 
