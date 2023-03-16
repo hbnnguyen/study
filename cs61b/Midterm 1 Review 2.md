@@ -28,5 +28,19 @@ public interface List<T> {
 - set of given methods that may be used to access and modify elements
 - implementation is much more complicated, but lots of useful functionality given to users
 
-### implementations of lists
-- 
+## linked lists
+IntLists
+- recursive structure where each IntList item points to the next item
+- messy, lacking in encompassing structure
+![[Pasted image 20230315215021.png]]
+
+
+
+
+
+
+
+
+
+
+
