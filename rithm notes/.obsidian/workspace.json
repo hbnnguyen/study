@@ -1,52 +1,51 @@
 {
   "main": {
-    "id": "173e0dd54102556e",
+    "id": "dcab485b84c5a3b5",
     "type": "split",
     "children": [
       {
-        "id": "dbf2d5d49cd24bea",
+        "id": "ba7207ac60fe0abf",
         "type": "tabs",
         "children": [
           {
-            "id": "db23d2daead1e47a",
+            "id": "4ab60947caa3ecec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Midterm 1 Review 1.md",
-                "mode": "source",
+                "file": "CheatSheet.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "cc8f08b594420816",
+            "id": "2349e96d5c4234eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Midterm 1 Review 2.md",
-                "mode": "source",
+                "file": "CheatSheet.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b462094e9072301b",
+    "id": "cca290441d2b8723",
     "type": "split",
     "children": [
       {
-        "id": "d86739130a820428",
+        "id": "0fac660872cadd31",
         "type": "tabs",
         "children": [
           {
-            "id": "66c685021817e1f2",
+            "id": "3691732bb1a42a00",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +55,7 @@
             }
           },
           {
-            "id": "ce298611e56651e5",
+            "id": "a15851add43bb281",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +70,7 @@
             }
           },
           {
-            "id": "068542da9c7fe3c3",
+            "id": "06ba0e0535bef884",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,23 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "17bfc23df1498384",
+    "id": "f4357939131db10f",
     "type": "split",
     "children": [
       {
-        "id": "ad4dfa0cbf7111c0",
+        "id": "898dd32cfb8bcbf3",
         "type": "tabs",
         "children": [
           {
-            "id": "c21d6ccf45741ad3",
+            "id": "e4e9e3f17a81bffe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm 1 Review 2.md",
+                "file": "CheatSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +109,19 @@
             }
           },
           {
-            "id": "faaef6ba52a71642",
+            "id": "60f7165e9aa31679",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm 1 Review 2.md",
+                "file": "CheatSheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6e94d556ea349c96",
+            "id": "810b8a75efc1584d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +132,12 @@
             }
           },
           {
-            "id": "7e36221310fb788a",
+            "id": "f2f156da4c151bba",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Midterm 1 Review 2.md"
+                "file": "CheatSheet.md"
               }
             }
           }
@@ -159,24 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66c685021817e1f2",
+  "active": "4ab60947caa3ecec",
   "lastOpenFiles": [
-    "Pasted image 20230315215021.png",
-    "Pasted image 20230313223421.png",
-    "Midterm 1 Review 1.md",
-    "Midterm 1 Review 2.md",
-    "4.1 Inheritance and Interfaces.md",
-    "Pasted image 20230313194519.png",
-    "Pasted image 20230313193450.png",
-    "Pasted image 20230313192417.png",
-    "Pasted image 20230313192033.png",
-    "Pasted image 20230313191041.png",
-    "Pasted image 20230313190910.png",
-    "Pasted image 20230313185249.png",
-    "Pasted image 20230313185157.png",
-    "Pasted image 20230313185036.png",
-    "1.1 Essentials.md",
-    "1.2 Objects.md",
-    "Untitled.canvas"
+    "lecture notes/intermediate js 1.md",
+    "CheatSheet.md",
+    "lecture notes"
   ]
 }
