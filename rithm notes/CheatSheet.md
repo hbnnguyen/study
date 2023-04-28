@@ -36,8 +36,8 @@ In [2]: convert("USD", "GBP", 10)
 
 ### Creating a Virtual Environment
 ```
-$ cd my-project-directory
-$ python3 -m venv venv
+cd my-project-directory
+$python3 -m venv venv
 ```
 
 ### Using Your Virtual Environment
