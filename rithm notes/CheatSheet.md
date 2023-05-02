@@ -35,28 +35,29 @@ In [2]: convert("USD", "GBP", 10)
 ```
 
 ### Creating a Virtual Environment
+
+`cd my-project-directory`
 ```
-cd my-project-directory
-$python3 -m venv venv
+python3 -m venv venv
 ```
 
 ### Using Your Virtual Environment
 ```
-$ source venv/bin/activate
-(venv) $  # <-- notice shell prompt!
+source venv/bin/activate
 ```
+- `(venv) $  # <-- notice shell prompt!`
 - use pip3 install in the venv
 
 ## Tracking Required Libraries
 
 To see a list of installed libraries in a venv:
 ```
-$ pip3 freeze
-# ... list of installed things...
+pip3 freeze
 ```
+`# ... list of installed things...`
 It’s helpful to save this info in a file (typically named “requirements.txt”):
 ```
-$ pip3 freeze > requirements.txt
+pip3 freeze > requirements.txt
 ```
 ## Recreating a Virtual Environment
 
