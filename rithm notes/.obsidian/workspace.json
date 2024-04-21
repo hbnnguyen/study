@@ -14,12 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "CheatSheet.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8682d50ef2d56d5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcf2a7aa571972fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ab60947caa3ecec",
+  "active": "8682d50ef2d56d5b",
   "lastOpenFiles": [
     "lecture notes/intermediate js 1.md",
     "CheatSheet.md",
